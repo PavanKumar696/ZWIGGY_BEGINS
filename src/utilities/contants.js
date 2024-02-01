@@ -1,0 +1,2 @@
+export const CDN_URL="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/";
+export const LOGO_URL="https://pbs.twimg.com/profile_images/1462743327841861639/rGG9hzxM_400x400.jpg";
